@@ -1,5 +1,5 @@
 # Geeks-For-Geeks-Interview-Material
-This web crawler saves all the interview experiences for a particular company from GeeksforGeeks website in a PDF format on your PC.
+This web crawler saves all the interview experiences for a particular company from GeeksforGeeks website in a PDF format on your PC. Inspired from a similar project I saw on Quora.
 Used BeautifulSoup, pdfkit
 
 I have chosen Oracle for this code. You can modify the company as per your need, but it should be there on the website. For more info, refer here. http://www.geeksforgeeks.org/company-interview-corner/
